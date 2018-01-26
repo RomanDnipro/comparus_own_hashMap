@@ -1,0 +1,1 @@
+Unfortunately, for the allocated period of time it failed to implement own Map using red-black tree or hash table. This would significantly shorten the search time O (log n) or O (1), respectively. But an implementation with two lists does not use extraneous structures, such as Node (key, value).
